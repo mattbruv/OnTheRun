@@ -1,1 +1,0 @@
-global Gon exitFrame  go(the frame)end
