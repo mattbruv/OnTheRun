@@ -1,6 +1,6 @@
-# On The Run
+# On The Run Source Code
 
-This is the source code to the 2000s era Shockwave Game titled "On The Run". It is also known as "FFX Runner".
+This is the decompiled Lingo source code to the 2000s era Shockwave Game titled "On The Run". It is also known as "FFX Runner".
 
 
 This is the original version, and the DCR file this source code was decompiled from has a MD5 hash of:
